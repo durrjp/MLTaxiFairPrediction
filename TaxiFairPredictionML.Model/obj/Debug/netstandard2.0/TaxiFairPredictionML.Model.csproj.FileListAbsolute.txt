@@ -1,0 +1,10 @@
+C:\Users\durrj\workspace\ML Practice\TaxiFairPrediction\TaxiFairPredictionML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\durrj\workspace\ML Practice\TaxiFairPrediction\TaxiFairPredictionML.Model\bin\Debug\netstandard2.0\TaxiFairPredictionML.Model.deps.json
+C:\Users\durrj\workspace\ML Practice\TaxiFairPrediction\TaxiFairPredictionML.Model\bin\Debug\netstandard2.0\TaxiFairPredictionML.Model.dll
+C:\Users\durrj\workspace\ML Practice\TaxiFairPrediction\TaxiFairPredictionML.Model\bin\Debug\netstandard2.0\TaxiFairPredictionML.Model.pdb
+C:\Users\durrj\workspace\ML Practice\TaxiFairPrediction\TaxiFairPredictionML.Model\obj\Debug\netstandard2.0\TaxiFairPredictionML.Model.csprojAssemblyReference.cache
+C:\Users\durrj\workspace\ML Practice\TaxiFairPrediction\TaxiFairPredictionML.Model\obj\Debug\netstandard2.0\TaxiFairPredictionML.Model.AssemblyInfoInputs.cache
+C:\Users\durrj\workspace\ML Practice\TaxiFairPrediction\TaxiFairPredictionML.Model\obj\Debug\netstandard2.0\TaxiFairPredictionML.Model.AssemblyInfo.cs
+C:\Users\durrj\workspace\ML Practice\TaxiFairPrediction\TaxiFairPredictionML.Model\obj\Debug\netstandard2.0\TaxiFairPredictionML.Model.csproj.CoreCompileInputs.cache
+C:\Users\durrj\workspace\ML Practice\TaxiFairPrediction\TaxiFairPredictionML.Model\obj\Debug\netstandard2.0\TaxiFairPredictionML.Model.dll
+C:\Users\durrj\workspace\ML Practice\TaxiFairPrediction\TaxiFairPredictionML.Model\obj\Debug\netstandard2.0\TaxiFairPredictionML.Model.pdb
